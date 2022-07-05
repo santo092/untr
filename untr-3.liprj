@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="de-de" xml:lang="de-de" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="false">
+<LingoProject TargetLanguage="de-de" xml:lang="de-de" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="7fefa1b6-5ec5-4738-a0db-0efdf3fa05d1">
     <ProjectFile Source="Target/Untranslated.flprj" Target="Target/Untranslated.flprj" />
 </LingoProject>
